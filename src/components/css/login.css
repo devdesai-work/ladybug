@@ -1,0 +1,21 @@
+.bhand {
+    height: 380px;
+    width: 300px;
+    border: 1px solid;
+
+    top: 50%;
+    left: 50%;
+    margin-top: 100px;
+    margin-left: 620px;
+}
+
+.shand {
+    height: 540px;
+    width: 300px;
+    border: 1px solid;
+
+    top: 50%;
+    left: 50%;
+    margin-top: 100px;
+    margin-left: 620px;
+}

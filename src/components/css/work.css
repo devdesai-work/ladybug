@@ -1,0 +1,25 @@
+.max-width-container {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.class_container:hover {
+    box-shadow: rgb(9 30 66 / 25%) 0px 1px 1px, rgb(9 30 66 / 31%) 0px 0px 1px;
+    cursor: pointer;
+}
+
+.spec_inp {
+    width:500px;
+    border-width:0px;
+    border:none;
+}
+
+.desc_input {
+    font-size: 18px;
+    border-width:0px;
+    border:none;
+}
+
+::placeholder {
+   color:   black;
+}
